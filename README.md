@@ -1,4 +1,5 @@
 # laco-repeticao-do...while
+---
 
 Este repositório contém a resolução de atividades práticas em **JavaScript**, focadas no uso da estrutura de controle `do...while`. O objetivo é exercitar a execução antecipada de blocos de código antes da validação de condições lógicas.
 
@@ -6,8 +7,8 @@ Este repositório contém a resolução de atividades práticas em **JavaScript*
 * **Linguagem:** JavaScript (Extensão `.js`)
 * **Ambiente de Execução:** Node.js ou Navegador
 * **Versionamento:** Git & GitHub
-
-## 📋 Tarefas Implementadas
+---
+## 📋 Tarefas Implementadas  
 
 ### 🔑 1. Validação de Senha
 Programa que solicita a senha ao usuário, o fluxo garante que o pedido seja feito ao menos uma vez e continua repetindo até que a senha correta (ex: "1234") seja digitada.
